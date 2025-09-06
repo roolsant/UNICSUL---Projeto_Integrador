@@ -1,0 +1,220 @@
+idequipe,nm_equipe,tb_Pais_idpais
+1,McLaren,21
+2,"BMW Sauber",40
+3,Williams,21
+4,Renault,20
+5,"Toro Rosso",25
+6,Ferrari,25
+7,Toyota,27
+8,"Super Aguri",27
+9,"Red Bull",38
+10,Honda,27
+11,Spyker,36
+12,MF1,43
+13,"Spyker MF1",36
+14,Sauber,40
+15,Minardi,25
+16,Jordan,44
+17,BAR,21
+18,Prost,20
+19,Arrows,21
+20,Benetton,21
+21,Jaguar,21
+22,Stewart,21
+23,Tyrrell,21
+24,Lola,21
+25,Ligier,20
+26,Forti,29
+27,Footwork,21
+28,Pacific,21
+29,Simtek,21
+30,Larrousse,20
+31,Lotus,21
+32,March,21
+33,Brabham,21
+34,Fondmetal,25
+35,"Andrea Moda",25
+36,Dallara,25
+37,AGS,20
+38,Lambo,25
+39,Coloni,25
+40,Osella,25
+41,EuroBrun,40
+42,Onyx,21
+43,"Leyton House",21
+44,Life,25
+45,Rial,22
+46,Zakspeed,22
+47,RAM,21
+48,Spirit,21
+49,Toleman,21
+50,ATS,22
+51,Theodore,45
+52,Fittipaldi,29
+53,Ensign,21
+54,Shadow,21
+55,Wolf,19
+56,Surtees,21
+57,Hesketh,21
+58,Penske,42
+59,Boro,36
+60,Parnelli,42
+61,Kojima,27
+62,BRM,21
+63,LEC,21
+64,McGuire,13
+65,Matra,20
+66,Trojan,21
+67,Amon,46
+68,Token,21
+69,Lyncar,21
+70,Maki,27
+71,"Embassy Hill",21
+72,"Team Lotus",21
+73,Cooper-Climax,21
+74,Greifzu,22
+75,Gordini,20
+76,"Frazer Nash",21
+77,Veritas,22
+78,OSCA,25
+79,Connaught,21
+80,Alta,21
+81,HWM,21
+82,Maserati,25
+83,ERA,21
+84,Cisitalia,25
+85,Simca,20
+86,Talbot-Lago,20
+87,AFM,22
+88,Cooper-Maserati,21
+89,Cooper-Bristol,21
+90,BMW,22
+91,Vanwall,21
+92,Epperly,42
+93,"Kurtis Kraft",42
+94,Kuzma,42
+95,Watson,42
+96,Scarab,42
+97,Porsche,22
+98,"De Tomaso",25
+99,Ferguson,21
+100,Gilby,21
+101,Stebro,19
+102,Scirocco,21
+103,Derrington,21
+104,Eagle-Climax,42
+105,Eagle-Weslake,42
+106,Cooper,21
+107,LDS,33
+108,Protos,22
+109,Shannon,21
+110,Bellasi,40
+111,Politoys,21
+112,Connew,21
+113,Tecno,25
+114,"Iso Marlboro",21
+115,Brawn,21
+116,"Force India",41
+117,Mercedes,22
+118,Virgin,21
+119,HRT,16
+120,Caterham,14
+121,Marussia,43
+122,"Lotus F1",21
+123,"Haas F1 Team",42
+124,"Manor Marussia",21
+125,"Racing Point",19
+126,AlphaTauri,25
+127,"Alpine F1 Team",20
+128,"Aston Martin",21
+129,"Alfa Romeo",40
+130,"Kick Sauber",40
+131,"RB F1 Team",25
+132,Eifelland,22
+133,"Alfa Romeo-Sauber",40
+134,"De Tomaso-Alfa Romeo",25
+135,Cooper-OSCA,21
+136,MBM,40
+137,Cooper-Borgward,21
+138,Cooper-Ford,21
+139,"Aston Martin-Aston Martin",21
+140,"Aston Martin-Mercedes",21
+141,JBW,21
+142,Emeryson,21
+143,ENB,24
+144,"De Tomaso-Osca",25
+145,"De Tomaso-Ferrari",25
+146,"De Tomaso-Cosworth",25
+147,"De Tomaso-Ford",25
+148,Williams-Toyota,21
+149,Williams-Mercedes,21
+150,Williams-Renault,21
+151,Williams-Cosworth,21
+152,Williams-BMW,21
+153,Williams-Mecachrome,21
+154,Williams-Supertec,21
+155,Williams-Judd,21
+156,Williams-Honda,21
+157,Williams-Ford,21
+158,"Alfa Romeo-Ferrari",40
+159,"Toro Rosso-Ferrari",25
+160,"Toro Rosso-Renault",25
+161,"Toro Rosso-Honda",25
+162,"Toro Rosso-Cosworth",25
+163,"Super Aguri-Honda",27
+164,Spyker-Ferrari,36
+165,Sauber-Petronas,40
+166,Sauber-Mercedes,40
+167,Sauber-Ilmor,40
+168,Sauber-Ford,40
+169,Sauber-Ferrari,40
+170,"Sauber-BMW Sauber",40
+171,Renault-Renault,20
+172,Renault-Mecachrome,20
+173,Renault-Playlife,20
+174,"Red Bull-TAG Heuer",38
+175,"Red Bull-Renault",38
+176,"Red Bull-RBPT",38
+177,"Red Bull-Honda",38
+178,"Red Bull-Ferrari",38
+179,"Red Bull-Cosworth",38
+180,Prost-Peugeot,20
+181,Prost-Mugen-Honda,20
+182,Prost-Ferrari,20
+183,Prost-Acer,20
+184,"Team Lotus-Ford",21
+185,"Team Lotus-BRM",21
+186,"Team Lotus-Climax",21
+187,"Team Lotus-Pratt & Whitney",21
+188,"Team Lotus-Maserati",21
+189,"Team Lotus-Cosworth",21
+190,"Team Lotus-Renault",21
+191,"Team Lotus-Judd",21
+192,"Team Lotus-Lamborghini",21
+193,"Team Lotus-Mugen-Honda",21
+194,Pacific-Ford,21
+195,Pacific-Ilmor,21
+196,"Minardi-Motori Moderni",25
+197,Minardi-Lamborghini,25
+198,Minardi-Hart,25
+199,Minardi-Ford,25
+200,Minardi-European,25
+201,Minardi-Cosworth,25
+202,Minardi-Fondmetal,25
+203,Midland-Toyota,43
+204,McLaren-Mercedes,21
+205,McLaren-TAG,21
+206,McLaren-Serenissima,21
+207,McLaren-Renault,21
+208,McLaren-Peugeot,21
+209,McLaren-Honda,21
+210,McLaren-Ford,21
+211,McLaren-BRM,21
+212,"McLaren-Alfa Romeo",21
+213,March-Judd,21
+214,March-Ilmor,21
+215,March-Ford,21
+216,"March-Alfa Romeo",21
+217,Manor-Cosworth,21
+218,Ligier-Peugeot,20
+219,Ligier-Mugen-Honda,20

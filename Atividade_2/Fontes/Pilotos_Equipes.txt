@@ -1,0 +1,863 @@
+Piloto,UltimaEquipe
+Lewis Hamilton,Mercedes
+Nick Heidfeld,Renault
+Nico Rosberg,Mercedes
+Fernando Alonso,Aston Martin
+Heikki Kovalainen,Caterham
+Kazuki Nakajima,Williams
+Sébastien Bourdais,Toro Rosso
+Kimi Räikkönen,Alfa Romeo
+Robert Kubica,Williams
+Timo Glock,Marussia
+Takuma Sato,Super Aguri
+Nelson Piquet Jr.,Renault
+Felipe Massa,Williams
+David Coulthard,Red Bull
+Jarno Trulli,Caterham
+Adrian Sutil,Force India
+Mark Webber,Red Bull
+Jenson Button,McLaren
+Anthony Davidson,Super Aguri
+Sebastian Vettel,Aston Martin
+Giancarlo Fisichella,Ferrari
+Rubens Barrichello,Williams
+Ralf Schumacher,Toyota
+Vitantonio Liuzzi,HRT
+Alexander Wurz,Williams
+Scott Speed,Toro Rosso
+Christijan Albers,Spyker
+Markus Winkelhock,Spyker
+Sakon Yamamoto,HRT
+Michael Schumacher,Mercedes
+Juan Pablo Montoya,McLaren
+Christian Klien,HRT
+Tiago Monteiro,Spyker
+Yuji Ide,Super Aguri
+Jacques Villeneuve,BMW Sauber
+Franck Montagny,Super Aguri
+Pedro de la Rosa,HRT
+Robert Doornbos,Red Bull
+Narain Karthikeyan,HRT
+Patrick Friesacher,Minardi
+Ricardo Zonta,Toyota
+Antônio Pizzonia,Williams
+Cristiano da Matta,Toyota
+Olivier Panis,Toyota
+Giorgio Pantano,Jordan
+Gianmaria Bruni,Minardi
+Zsolt Baumgartner,Minardi
+Marc Gené,Williams
+Heinz-Harald Frentzen,Sauber
+Jos Verstappen,Minardi
+Justin Wilson,Minardi
+Ralph Firman,Jordan
+Nicolas Kiesa,Minardi
+Luciano Burti,Jaguar
+Jean Alesi,Jordan
+Eddie Irvine,Jaguar
+Mika Häkkinen,McLaren
+Tarso Marques,Minardi
+Enrique Bernoldi,Arrows
+Gastón Mazzacane,Prost
+Tomáš Enge,Jordan
+Alex Yoong,Minardi
+Mika Salo,Toyota
+Pedro Diniz,Sauber
+Johnny Herbert,Jaguar
+Allan McNish,Toyota
+Sébastien Buemi,Toro Rosso
+Toranosuke Takagi,Tyrrell
+Luca Badoer,Ferrari
+Alessandro Zanardi,Williams
+Damon Hill,Jordan
+Stéphane Sarrazin,Minardi
+Ricardo Rosset,Tyrrell
+Esteban Tuero,Minardi
+Shinji Nakano,Prost
+Jan Magnussen,Stewart
+Gerhard Berger,Benetton
+Nicola Larini,Ferrari
+Ukyo Katayama,Tyrrell
+Vincenzo Sospiri,Lola
+Gianni Morbidelli,Arrows
+Norberto Fontana,Sauber
+Pedro Lamy,Minardi
+Martin Brundle,Jordan
+Andrea Montermini,Forti
+Giovanni Lavaggi,Minardi
+Mark Blundell,Prost
+Aguri Suzuki,Larrousse
+Taki Inoue,Footwork
+Roberto Moreno,Andrea Moda
+Karl Wendlinger,Sauber
+Bertrand Gachot,Jordan
+Domenico Schiattarella,Forti
+Pierluigi Martini,Minardi
+Nigel Mansell,McLaren
+Jean-Christophe Boullion,Sauber
+Massimiliano Papis,Arrows
+Jean-Denis Délétraz,Pacific
+Gabriele Tarquini,AGS
+Érik Comas,Larrousse
+David Brabham,Brabham
+Ayrton Senna,Williams
+Éric Bernard,Ligier
+Christian Fittipaldi,Minardi
+Michele Alboreto,Footwork
+Olivier Beretta,Larrousse
+Roland Ratzenberger,Simtek
+Paul Belmondo,Pacific
+Jyrki Järvilehto,Benetton
+Andrea de Cesaris,Jordan
+Jean-Marc Gounon,Simtek
+Philippe Alliot,Larrousse
+Philippe Adams,Lotus
+Yannick Dalmas,Larrousse
+Hideki Noda,Larrousse
+Franck Lagorce,Ligier
+Alain Prost,Williams
+Derek Warwick,Footwork
+Riccardo Patrese,Benetton
+Fabrizio Barbazza,Minardi
+Michael Andretti,McLaren
+Ivan Capelli,Ferrari
+Thierry Boutsen,Ligier
+Marco Apicella,Jordan
+Emanuele Naspetti,Jordan
+Toshio Suzuki,Larrousse
+Maurício Gugelmin,Pacific
+Eric van de Poele,Brabham
+Olivier Grouillard,Footwork
+Andrea Chiesa,Fondmetal
+Stefano Modena,Jordan
+Giovanna Amati,Brabham
+Alex Caffi,Footwork
+Enrico Bertaggia,Coloni
+Perry McCarthy,Andrea Moda
+Jan Lammers,March
+Nelson Piquet,Benetton
+Satoru Nakajima,Tyrrell
+Emanuele Pirro,Scuderia Italia
+Stefan Johansson,Onyx
+Julian Bailey,Lotus
+Pedro Chaves,Coloni
+Michael Bartels,March
+Naoki Hattori,Coloni
+Alessandro Nannini,Benetton
+Bernd Schneider,Zakspeed
+Paolo Barilla,Minardi
+Gregor Foitek,Brabham
+Claudio Langes,EuroBrun
+Gary Brabham,Life
+Martin Donnelly,Lotus
+Bruno Giacomelli,Life
+Jaime Alguersuari,Toro Rosso
+Romain Grosjean,Haas
+Kamui Kobayashi,Sauber
+Jonathan Palmer,Tyrrell
+Christian Danner,Zakspeed
+Eddie Cheever,Arrows
+Luis Pérez-Sala,Minardi
+Piercarlo Ghinzani,Zakspeed
+Volker Weidler,Rial
+Pierre-Henri Raphanel,Coloni
+René Arnoux,Ligier
+Joachim Winkelhock,ATS
+Oscar Larrauri,EuroBrun
+Philippe Streiff,AGS
+Adrián Campos,Minardi
+Jean-Louis Schlesser,Williams
+Pascal Fabre,AGS
+Teo Fabi,Honda
+Franco Forini,Osella
+Jacques Laffite,Ligier
+Elio de Angelis,Brabham
+Johnny Dumfries,Lotus
+Patrick Tambay,Haas Lola
+Marc Surer,Arrows
+Keke Rosberg,McLaren
+Alan Jones,Haas Lola
+Huub Rothengatter,Zakspeed
+Allen Berg,Osella
+Manfred Winkelhock,ATS
+Niki Lauda,McLaren
+François Hesnault,Brabham
+Mauro Baldi,Spirit
+Stefan Bellof,Tyrrell
+Kenny Acheson,RAM
+John Watson,McLaren
+Johnny Cecotto,Toleman
+Jo Gartner,Osella
+Corrado Fabi,Brabham
+Mike Thackwell,RAM
+Chico Serra,Arrows
+Danny Sullivan,Tyrrell
+Eliseo Salazar,Ensign
+Roberto Guerrero,Haas Lola
+Raul Boesel,Ligier
+Jean-Pierre Jarier,Ligier
+Jacques Villeneuve Sr.,Ferrari
+Carlos Reutemann,Williams
+Jochen Mass,McLaren
+Slim Borgudd,ATS
+Didier Pironi,Ferrari
+Gilles Villeneuve,Ferrari
+Riccardo Paletti,Osella
+Brian Henton,Tyrrell
+Derek Daly,Williams
+Mario Andretti,Ferrari
+Emilio de Villota,Williams
+Geoff Lees,Theodore
+Tommy Byrne,Theodore
+Rupert Keegan,RAM
+Hector Rebaque,Brabham
+Beppe Gabbiani,Osella
+Kevin Cogan,Patrick
+Miguel Ángel Guerra,Osella
+Siegfried Stohr,Arrows
+Ricardo Zunino,Brabham
+Ricardo Londoño,Ensign
+Jean-Pierre Jabouille,Ligier
+Giorgio Francia,Osella
+Patrick Depailler,Alfa Romeo
+Jody Scheckter,Ferrari
+Clay Regazzoni,Ensign
+Emerson Fittipaldi,Fittipaldi
+Dave Kennedy,Shadow
+Stephen South,Ensign
+Tiff Needell,Ensign
+Desiré Wilson,Williams
+Harald Ertl,ATS
+Vittorio Brambilla,Alfa Romeo
+James Hunt,McLaren
+Arturo Merzario,Merzario
+Hans-Joachim Stuck,Shadow
+Gianfranco Brancatelli,Alfa Romeo
+Jacky Ickx,Ligier
+Patrick Gaillard,Ensign
+Alex Ribeiro,Fittipaldi
+Ronnie Peterson,McLaren
+Brett Lunger,McLaren
+Danny Ongais,Shadow
+Lamberto Leoni,Ensign
+Divina Galica,Hesketh
+Rolf Stommelen,Arrows
+Alberto Colombo,Merzario
+Tony Trimmer,McLaren
+Hans Binder,Surtees
+Michael Bleekemolen,ATS
+Carlo Franchi,Surtees
+Bobby Rahal,McLaren
+Carlos Pace,Brabham
+Ian Scheckter,Williams
+Tom Pryce,Shadow
+Ingo Hoffmann,Fittipaldi
+Renzo Zorzi,Shadow
+Gunnar Nilsson,Lotus
+Larry Perkins,Surtees
+Boy Lunger,McLaren
+Patrick Nève,Ensign
+David Purley,McLaren
+Conny Andersson,Surtees
+Bernard de Dryver,Ensign
+Jackie Oliver,Shadow
+Mikko Kozarowitzky,Shadow
+Andy Sutcliffe,Surtees
+Guy Edwards,BRM
+Brian McGuire,Williams
+Vern Schuppan,Surtees
+Hans Heyer,ATS
+Teddy Pilette,BRM
+Ian Ashley,Hesketh
+Loris Kessel,Apollon
+Kunimitsu Takahashi,Tyrrell
+Kazuyoshi Hoshino,Tyrrell
+Noritake Takahara,Tyrrell
+Lella Lombardi,Williams
+Bob Evans,Lotus
+Michel Leclère,Williams
+Chris Amon,McLaren
+Emilio Zapico,Williams
+Henri Pescarolo,Surtees
+Jac Nelleman,Ensign
+Damien Magee,Williams
+Mike Wilds,Shadow
+Alessandro Pesenti-Rossi,Shadow
+Otto Stuppacher,Williams
+Warwick Brown,Shadow
+Masahiro Hasemi,Kojima
+Mark Donohue,Penske
+Graham Hill,Lola
+Wilson Fittipaldi,Fittipaldi
+Guy Tunmer,Lotus
+Eddie Keizan,Tyrrell
+Dave Charlton,Lotus
+Tony Brise,Williams
+Roelof Wunderink,Ensign
+François Migault,Surtees
+Torsten Palm,Hesketh
+Gijs van Lennep,Ensign
+Hiroshi Fushida,Maki
+John Nicholson,Lyncar
+Dave Morgan,Surtees
+Jim Crawford,Lotus
+Jo Vonlanthen,Ensign
+Denny Hulme,McLaren
+Mike Hailwood,McLaren
+Jean-Pierre Beltoise,BRM
+Howden Ganley,Williams
+Richard Robarts,Williams
+Peter Revson,Shadow
+Paddy Driver,Williams
+Tom Belsø,Hesketh
+Brian Redman,Shadow
+Rikky von Opel,Ensign
+Tim Schenken,Williams
+Gérard Larrousse,Williams
+Leo Kinnunen,Surtees
+Reine Wisell,March
+Bertil Roos,Shadow
+José Dolhem,Williams
+Peter Gethin,BRM
+Derek Bell,Surtees
+David Hobbs,McLaren
+Dieter Quester,Surtees
+Helmuth Koinigg,Surtees
+Carlo Facetti,Williams
+Eppie Wietzes,BRM
+François Cevert,Tyrrell
+Jackie Stewart,Tyrrell
+Mike Beuttler,March
+Nanni Galli,Tecno
+Luiz Bueno,Surtees
+George Follmer,Shadow
+Andrea de Adamich,Surtees
+Jackie Pretorius,Brabham
+Roger Williamson,March
+Graham McRae,Williams
+Helmut Marko,BRM
+David Walker,Lotus
+Alex Soler-Roig,March
+John Love,Surtees
+John Surtees,Surtees
+Skip Barber,March
+Bill Brack,McLaren
+Sam Posey,Surtees
+Pedro Rodríguez,BRM
+Jo Siffert,BRM
+Jo Bonnier,McLaren
+François Mazet,March
+Max Jean,Surtees
+Vic Elford,Cooper
+Silvio Moser,Brabham
+George Eaton,BRM
+Pete Lovely,Lotus
+Chris Craft,Brabham
+John Cannon,BRM
+Jack Brabham,Brabham
+John Miles,Lotus
+Jochen Rindt,Lotus
+Johnny Servoz-Gavin,McLaren
+Bruce McLaren,McLaren
+Piers Courage,Brabham
+Peter de Klerk,Brabham
+Ignazio Giunti,Ferrari
+Dan Gurney,Eagle
+Hubert Hahne,Lola
+Gus Hutchison,Surtees
+Peter Westbury,Brabham
+Sam Tingle,Lola
+Basil van Rooyen,Cooper
+Richard Attwood,BRM
+Al Pease,Eagle
+John Cordts,Lotus
+Jim Clark,Lotus
+Mike Spence,BRM
+Ludovico Scarfiotti,Ferrari
+Lucien Bianchi,Cooper
+Jo Schlesser,Honda
+Robin Widdows,Cooper
+Kurt Ahrens,BRM
+Frank Gardner,Brabham
+Bobby Unser,Eagle
+Moisés Solana,Ferrari
+Bob Anderson,Brabham
+Luki Botha,Brabham
+Lorenzo Bandini,Ferrari
+Richie Ginther,Honda
+Mike Parkes,Ferrari
+Chris Irwin,BRM
+Guy Ligier,Cooper
+Alan Rees,Cooper
+Brian Hart,Proteus
+Mike Fisher,Lotus
+Tom Jones,Cooper
+Giancarlo Baghetti,Ferrari
+Jonathan Williams,Ferrari
+Bob Bondurant,BRM
+Peter Arundell,Lotus
+Vic Wilson,Cooper
+John Taylor,Cooper
+Chris Lawrence,Cooper
+Trevor Taylor,Brabham
+Giacomo Russo,Ferrari
+Phil Hill,Cooper
+Innes Ireland,BRM
+Ronnie Bucknum,Honda
+Paul Hawkins,Lotus
+David Prophet,Brabham
+Tony Maggs,BRM
+Trevor Blokdyk,Lola
+Neville Lederle,Lotus
+Doug Serrurier,LDS
+Brausch Niemann,Lotus
+Ernie Pieterse,Lotus
+Clive Puzey,Lotus
+Ray Reed,LDS
+David Clapham,Lotus
+Alex Blignaut,LDS
+Masten Gregory,Cooper
+John Rhodes,Cooper
+Ian Raby,Brabham
+Alan Rollinson,Brabham
+Brian Gubby,Lotus
+Gerhard Mitter,Porsche
+Roberto Bussinello,De Tomaso
+Nino Vaccarella,Porsche
+Giorgio Bassi,De Tomaso
+Maurice Trintignant,Cooper
+Bernard Collomb,Cooper
+André Pilette,Emeryson
+Carel Godin de Beaufort,Porsche
+Edgar Barth,Porsche
+Mário de Araújo Cabral,Cooper
+Walt Hansgen,Lotus
+Hap Sharp,Lotus
+Willy Mairesse,Ferrari
+John Campbell-Jones,Lola
+Ian Burgess,Cooper
+Tony Settember,Emeryson
+Nasif Estéfano,De Tomaso
+Jim Hall,Lotus
+Tim Parnell,Lotus
+Kurt Kuhnke,Auto Union
+Ernesto Brambilla,Cooper
+Roberto Lippi,De Tomaso
+Günther Seiffert,Lotus
+Carlo Abate,Ferrari
+Gaetano Starrabba,Lotus
+Peter Broeker,Stebro
+Rodger Ward,Leader Card
+Ernie de Vos,Stebro
+Frank Dochnal,Lotus
+Thomas Monarch,Cooper
+Pierre Gasly,Alpine
+Jackie Lewis,BRM
+Ricardo Rodríguez,Ferrari
+Wolfgang Seidel,Cooper
+Roy Salvadori,Cooper
+Ben Pon,Porsche
+Rob Slotemaker,Porsche
+Tony Marsh,BRM
+Gerry Ashmore,Lotus
+Heinz Schiller,Porsche
+Colin Davis,Porsche
+Jay Chamberlain,Lotus
+Tony Shelly,Lola
+Keith Greene,Gilby
+Heini Walter,Porsche
+Ernesto Prinoth,Cooper
+Roger Penske,Porsche
+Rob Schroeder,Lotus
+Timmy Mayer,Cooper
+Bruce Johnstone,Cooper
+Mike Harris,Lotus
+Gary Hocking,Lotus
+Syd van der Vyver,Lotus
+Stirling Moss,Lotus
+Wolfgang von Trips,Ferrari
+Cliff Allison,Ferrari
+Hans Herrmann,Porsche
+Tony Brooks,BRM
+Michael May,Ferrari
+Henry Taylor,Lotus
+Olivier Gendebien,Ferrari
+Giorgio Scarlatti,Maserati
+Brian Naylor,JBW
+Juan Manuel Bordeu,Cooper
+Jack Fairman,Cooper
+Massimo Natili,Cooper
+Peter Monteverdi,Cooper
+Renato Pirocchi,Cooper
+Geoff Duke,Cooper
+Alfonso Thiele,Cooper
+Menato Boffa,Cooper
+Peter Ryan,Lotus
+Lloyd Roadster,Watson
+Ken Miles,Lotus
+Carlos Menditeguy,Cooper
+Alberto Rodriguez Larreta,Cooper
+José Froilán González,Ferrari
+Roberto Bonomi,Cooper
+Gino Munaron,Cooper
+Harry Schell,Cooper
+Alan Stacey,Lotus
+Ettore Chimeri,Maserati
+Antonio Creus,Cooper
+Chris Bristow,Cooper
+Bruce Halford,Maserati
+Chuck Daigh,Scarab
+Lance Reventlow,Scarab
+Jim Rathmann,Watson
+Paul Goldsmith,Watson
+Don Branson,Watson
+Johnny Thomson,Lesovsky
+Eddie Johnson,Trevis
+Bob Veith,Watson
+Bud Tingelstad,Watson
+Bob Christie,Christie
+Red Amick,Epperly
+Duane Carter,Christensen
+Bill Homeier,Epperly
+Gene Hartley,Watson
+Chuck Stevenson,Watson
+Bobby Grim,Epperly
+Shorty Templeman,Watson
+Jim Hurtubise,Watson
+Jimmy Bryan,Epperly
+Troy Ruttman,Watson
+Eddie Sachs,Epperly
+Don Freeland,Watson
+Tony Bettenhausen,Epperly
+Wayne Weiler,Epperly
+Anthony Foyt,Watson
+Eddie Russo,Watson
+Johnny Boyd,Epperly
+Gene Force,Watson
+Jim McWithey,Watson
+Len Sutton,Lesovsky
+Dick Rathmann,Watson
+Al Herman,Epperly
+Dempsey Wilson,Watson
+Mike Taylor,Cooper
+Ron Flockhart,BRM
+David Piper,Lotus
+Giulio Cabianca,Cooper
+Piero Drogo,Cooper
+Fred Gamble,Brabham
+Arthur Owen,Cooper
+Horace Gould,Maserati
+Bob Drake,Cooper
+Ivor Bueb,Connaught
+Alain de Changy,Cooper
+Maria de Filippis,Maserati
+Jean Lucienbonnet,Cooper
+André Testut,Cooper
+Jean Behra,BRM
+Paul Russo,Watson
+Jimmy Daywalt,Watson
+Chuck Arnold,Christensen
+Al Keller,Schroeder
+Pat Flaherty,Watson
+Bill Cheesbourg,Watson
+Ray Crawford,Watson
+Jack Turner,Watson
+Chuck Weyant,Watson
+Jud Larson,Watson
+Mike Magill,Watson
+Carroll Shelby,Aston Martin
+Fritz d'Orey,Cooper
+Azdrubal Fontes,Maserati
+Peter Ashdown,Cooper
+Bill Moss,Cooper
+Dennis Taylor,Lotus
+Harry Blanchard,Porsche
+Alessandro de Tomaso,Cooper
+George Constantine,Cooper
+Bob Said,Cooper
+Phil Cade,Cooper
+Luigi Musso,Ferrari
+Mike Hawthorn,Ferrari
+Juan Fangio,Maserati
+Paco Godia,Maserati
+Peter Collins,Ferrari
+Ken Kavanagh,Maserati
+Gerino Gerini,Maserati
+Bruce Kessler,Cooper
+Paul Emery,Connaught
+Luigi Piotti,Maserati
+Bernie Ecclestone,Connaught
+Luigi Taramazzo,Cooper
+Louis Chiron,Maserati
+Stuart Lewis-Evans,Vanwall
+George Amick,Watson
+Jimmy Reece,Watson
+Johnnie Parsons,Watson
+Johnnie Tolan,Watson
+Billy Garrett,Watson
+Ed Elisian,Watson
+Pat O'Connor,Watson
+Jerry Unser,Watson
+Art Bisch,Kurtis Kraft
+Christian Goethals,Cooper
+Dick Gibson,Cooper
+Robert La Caze,Cooper
+André Guelfi,Cooper
+François Picard,Cooper
+Tom Bridger,Cooper
+Alfonso de Portago,Ferrari
+Cesare Perdisa,Maserati
+Eugenio Castellotti,Ferrari
+André Simon,Gordini
+Les Leston,Cooper
+Sam Hanks,Salih
+Andy Linden,Watson
+Marshall Teague,Watson
+Don Edmunds,Kurtis Kraft
+Fred Agabashian,Watson
+Elmer George,Watson
+Mike MacDowel,Cooper
+Herbert MacKay-Fraser,Cooper
+Bob Gerard,Cooper
+Umberto Maglioli,Porsche
+Paul England,Cooper
+Chico Landi,Maserati
+Alberto Uria,Maserati
+Hernando da Silva Ramos,Gordini
+Élie Bayol,Gordini
+Robert Manzon,Gordini
+Louis Rosier,Ferrari
+Bob Sweikert,Watson
+Cliff Griffith,Watson
+Duke Dinsmore,Schroeder
+Keith Andrews,Watson
+Paul Frère,Ferrari
+Luigi Villoresi,Lancia
+Piero Scotti,Cooper
+Colin Chapman,Lotus
+Desmond Titterington,Vanwall
+Archie Scott Brown,Connaught
+Ottorino Volonterio,Gordini
+André Milhoux,Gordini
+Toulo de Graffenried,Maserati
+Piero Taruffi,Ferrari
+Nino Farina,Ferrari
+Roberto Mieres,Maserati
+Sergio Mantovani,Maserati
+Clemar Bucci,Gordini
+Jesús Iglesias,Gordini
+Alberto Ascari,Lancia
+Karl Kling,Mercedes
+Pablo Birger,Gordini
+Jacques Pollet,Gordini
+Lance Macklin,HWM
+Ted Whiteaway,Cooper
+Jimmy Davies,Watson
+Walt Faulkner,Watson
+Cal Niday,Watson
+Art Cross,Watson
+Bill Vukovich,Watson
+Jack McGrath,Watson
+Jerry Hoyt,Watson
+Johnny Claes,Gordini
+Peter Walker,Cooper
+Mike Sparken,Gordini
+Ken Wharton,Maserati
+Kenneth McAlpine,Connaught
+Leslie Marr,Cooper
+Tony Rolt,Connaught
+John Fitch,Cooper
+Jean Lucas,Gordini
+Prince Bira,Maserati
+Onofre Marimón,Maserati
+Roger Loyer,Gordini
+Jorge Daponte,Gordini
+Mike Nazaruk,Watson
+Larry Crockett,Watson
+Manny Ayulo,Watson
+Frank Armi,Watson
+Travis Webb,Watson
+Len Duncan,Watson
+Ernie McCoy,Watson
+Jacques Swaters,Ferrari
+Georges Berger,Gordini
+Don Beauman,Connaught
+Leslie Thorne,Cooper
+Bill Whitehouse,Cooper
+John Riseley-Prichard,Cooper
+Reg Parnell,Aston Martin
+Peter Whitehead,Cooper
+Eric Brandon,Cooper
+Alan Brown,Cooper
+Rodney Nuckey,Cooper
+Hermann Lang,Mercedes
+Theo Helfrich,Veritas
+Fred Wacker,Gordini
+Giovanni de Riu,Maserati
+Oscar Gálvez,Gordini
+John Barber,Cooper
+Felice Bonetto,Maserati
+Adolfo Cruz,Gordini
+Duke Nalon,Watson
+Carl Scarborough,Watson
+Bill Holland,Watson
+Bob Scott,Watson
+Arthur Legat,Veritas
+Yves Cabantous,Gordini
+Tony Crook,Cooper
+Jimmy Stewart,Cooper
+Ian Stewart,Cooper
+Duncan Hamilton,Cooper
+Ernst Klodwig,BMW
+Rudolf Krause,BMW
+Oswald Karch,Veritas
+Willi Heeks,Veritas
+Theo Fitzau,AFM
+Kurt Adolff,Veritas
+Günther Bechem,Veritas
+Erwin Bauer,Veritas
+Hans von Stuck,AFM
+Ernst Loof,Veritas
+Albert Scherrer,Veritas
+Max de Terra,Ferrari
+Peter Hirt,Ferrari
+Piero Carini,Ferrari
+Rudi Fischer,Ferrari
+Toni Ulmen,Veritas
+George Abecassis,HWM
+George Connor,Watson
+Jim Rigsby,Watson
+Joe James,Watson
+Bill Schindler,Watson
+George Fonder,Schroeder
+Henry Banks,Watson
+Johnny McDowell,Watson
+Chet Miller,Watson
+Bobby Ball,Watson
+Charles de Tornaco,Ferrari
+Roger Laurent,Ferrari
+Robert O'Brien,Simca-Gordini
+Tony Gaze,HWM
+Robin Montgomerie-Charrington,Aston Martin
+Franco Comotti,Ferrari
+Philippe Étancelin,Talbot-Lago
+Dennis Poore,Connaught
+Eric Thompson,Connaught
+Ken Downing,Connaught
+Graham Whitehead,Ferrari
+Gino Bianco,Maserati
+David Murray,Cooper
+Eitel Cantoni,Maserati
+Bill Aston,Cooper
+Adolf Brudes,Veritas
+Fritz Riess,Veritas
+Helmut Niedermayr,Veritas
+Hans Klenk,Veritas
+Marcel Balsa,Simca-Gordini
+Rudolf Schoeller,Maserati
+Paul Pietsch,Veritas
+Josef Peters,Veritas
+Dries van der Lof,HWM
+Jan Flinterman,HWM
+Piero Dusio,Cisitalia
+Alberto Crespo,Maserati
+Franco Rol,Maserati
+Consalvo Sanesi,Alfa Romeo
+Guy Mairesse,Talbot-Lago
+Henri Louveau,Talbot-Lago
+Lee Wallard,Watson
+Carl Forberg,Watson
+Mauri Rose,Watson
+Bill Mackey,Watson
+Cecil Green,Watson
+Walt Brown,Watson
+Mack Hellings,Watson
+Pierre Levegh,Talbot-Lago
+Eugène Chaboud,Talbot-Lago
+Aldo Gordini,Gordini
+Joe Kelly,Alta
+Philip Fotheringham-Parker,Alta
+Brian Shawe Taylor,ERA
+John James,ERA
+Toni Branca,Maserati
+Ken Richardson,BRM
+Juan Jover,Gordini
+Georges Grignard,Talbot-Lago
+David Hampshire,Maserati
+Geoff Crossley,Alta
+Luigi Fagioli,Alfa Romeo
+Cuth Harrison,ERA
+Joe Fry,Maserati
+Eugène Martin,BMW
+Leslie Johnson,ERA
+Clemente Biondetti,Ferrari
+Alfredo Pián,Maserati
+Raymond Sommer,Ferrari
+Joie Chitwood,Watson
+Myron Fohr,Watson
+Walt Ader,Watson
+Jackie Holmes,Watson
+Bayliss Levrett,Watson
+Jimmy Jackson,Watson
+Nello Pagani,Maserati
+Charles Pozzi,Talbot-Lago
+Dorino Serafini,Ferrari
+Bill Cantrell,Watson
+Johnny Mantz,Watson
+Danny Kladis,Watson
+Óscar González,Maserati
+Nico Hülkenberg,Haas
+Vitaly Petrov,Caterham
+Lucas di Grassi,Virgin
+Bruno Senna,Williams
+Karun Chandhok,HRT
+Pastor Maldonado,Lotus
+Paul di Resta,Force India
+Sergio Pérez,Racing Point
+Jérôme d'Ambrosio,Lotus
+Daniel Ricciardo,McLaren
+Jean-Éric Vergne,Toro Rosso
+Charles Pic,Caterham
+Max Chilton,Marussia
+Esteban Gutiérrez,Haas
+Valtteri Bottas,Alfa Romeo
+Giedo van der Garde,Sauber
+Jules Bianchi,Marussia
+Kevin Magnussen,Haas
+Daniil Kvyat,AlphaTauri
+André Lotterer,Caterham
+Marcus Ericsson,Sauber
+Will Stevens,Manor
+Max Verstappen,Red Bull
+Felipe Nasr,Sauber
+Carlos Sainz,McLaren
+Roberto Merhi,Manor
+Alexander Rossi,Manor
+Jolyon Palmer,Renault
+Pascal Wehrlein,Sauber
+Rio Haryanto,Manor
+Stoffel Vandoorne,McLaren
+Esteban Ocon,Alpine
+Lance Stroll,Aston Martin
+Antonio Giovinazzi,Alfa Romeo
+Brendon Hartley,Toro Rosso
+Charles Leclerc,Ferrari
+Sergey Sirotkin,Williams
+Lando Norris,McLaren
+George Russell,Williams
+Alexander Albon,Williams
+Nicholas Latifi,Williams
+Pietro Fittipaldi,Haas
+Jack Aitken,Williams
+Yuki Tsunoda,AlphaTauri
+Nikita Mazepin,Haas
+Mick Schumacher,Haas
+Guanyu Zhou,Alfa Romeo
+Nyck de Vries,AlphaTauri
+Oscar Piastri,McLaren
+Logan Sargeant,Williams
+Liam Lawson,AlphaTauri
+Oliver Bearman,Ferrari
+Franco Colapinto,Williams
+Jack Doohan,Alpine
+Lloyd Ruby,Watson
